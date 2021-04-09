@@ -2,6 +2,7 @@
 Student Quiz App can be used by Teachers or any other person to take Online Quiz.
 
 # How to run
+```
 1)Install
 PHP 7.4.3
 Apache2
@@ -25,7 +26,9 @@ Command to import database:
 5)
  go to local host
  signup as a student
-
+```
 # admin :
+```
 adminrohit@gmail.com
 adminrohit
+```
