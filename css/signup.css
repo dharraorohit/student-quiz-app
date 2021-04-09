@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #EDEFF0;
+	text-align: center;
+}
+
+#Qheading{
+	width: 450px;
+	margin: auto;
+	/*border-radius: 10px 10px 0 0 ;*/
+	font-size: 50px;
+	color: #384047;
+	/*background-color: #fff;*/
+}

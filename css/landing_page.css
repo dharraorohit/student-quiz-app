@@ -1,0 +1,76 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+	background-color: #EDEFF0;
+	text-align: center;
+}
+
+#Qheading{
+	width: 450px;
+	margin: auto;
+	/*border-radius: 10px 10px 0 0 ;*/
+	font-size: 50px;
+	color: #384047;
+	/*background-color: #fff;*/
+}
+
+.wrapper{
+	width: 400px;
+	margin: auto;
+	margin-top: 40px;
+	background-color: #fff;
+	border-radius: 10px
+}
+
+.wrapper h1{
+	color:#fff;
+	font-size: 40px;
+	background-color: #008297;
+	padding: 10px 0;
+	border-radius: 10px;
+}
+
+form{
+	padding:20px 50px 30px 50px;
+	margin-bottom: 20px;
+}
+#form-content{
+	padding-bottom: 30px; 
+	text-align: left;
+}
+
+
+#form-content label{
+	padding: 10px 0;
+	color:#384047;
+	font-size: 20px;
+}
+
+#fieldwrapper{
+	padding:10px 0;
+}
+
+form input{
+	margin: 10px;
+	width: 100%;
+	border: 2px solid grey;
+  	border-radius: 4px;
+  	height: 20px;
+  	font-size: 15px;
+
+}
+
+#submit-button{
+	padding: 5px 10px;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+.add-color-green{
+	color: #5FCF80;
+}

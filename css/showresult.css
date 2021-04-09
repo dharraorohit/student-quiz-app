@@ -1,0 +1,23 @@
+#result{
+	padding: 20px;
+}
+
+.result-display{
+	padding: 10px;
+	width: 150px;
+	font-size: 20px;
+	color:#fff;
+	text-decoration: none;
+}
+
+#answer-is-correct{
+	background-color: green;
+}
+
+#answer-is-wrong{
+	background-color: red;
+}
+
+#explanation, #show-correct-ans{
+	padding: 10px 0 0;
+}

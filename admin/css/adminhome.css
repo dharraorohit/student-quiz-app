@@ -1,0 +1,16 @@
+#add-question-button,#remove-quiz-button,#add-quiz-button{
+	display: block;
+	padding: 5px 10px;
+	width: 150px;
+	font-size: 20px;
+	color:#fff;
+	text-decoration: none;
+	background-color: #5FCF80;
+	border-radius: 10px;
+	border: solid 1px grey;
+}
+
+#remove-quiz-button{
+	background-color: #e84147;
+	margin: 15px 0 0;
+}

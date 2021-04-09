@@ -1,0 +1,43 @@
+header{
+	color:#fff;
+	background-color: #3F474F;
+	margin-bottom: 50px; 
+}
+
+#heading{
+	font-size:80px;
+}
+
+#heading-container, #userinfo{
+	display: flex;
+	flex-wrap:wrap;
+	justify-content: space-around;
+}
+
+#userinfo{
+	padding: 10px;
+}
+#userinfo h2{
+	padding: 0 10px;
+}
+
+#userinfo img{
+	height: 50px;
+	background-color:#fff;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+#name-n-logbutton{
+	display: flex;
+	flex-direction: column;
+}
+#logout-button{
+	color:#fff;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #000;
+	text-decoration: none;
+	width: 50%;
+	margin: auto;
+}
